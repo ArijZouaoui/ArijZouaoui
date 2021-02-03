@@ -41,7 +41,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArijZouaoui&layout=compact&show_icons=true&title_color=fe6287&icon_color=fe6287&theme=tokyonigh&text_color=ffffff&bg_color=0a192f)](https://github.com/ArijZouaoui?tab=repositories)
 
-
+ | <div><br><br>Hit a star<br><a href="https://github.com/harshalrj25/harshalrj25"><img height="100" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif"></a></div>  |
+| ------------- | ------------- |
 
 [linkedin]: https://www.linkedin.com/in/arij-zouaoui/
 [kaggle]: https://www.kaggle.com/arijzou
