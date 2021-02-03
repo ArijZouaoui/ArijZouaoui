@@ -41,9 +41,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArijZouaoui&layout=compact&show_icons=true&title_color=fe6287&icon_color=fe6287&theme=tokyonigh&text_color=ffffff&bg_color=0a192f)](https://github.com/ArijZouaoui?tab=repositories)
 
-### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
 
 
 [linkedin]: https://www.linkedin.com/in/arij-zouaoui/
