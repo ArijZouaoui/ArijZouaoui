@@ -1,6 +1,6 @@
 ### Hi there, I'm Arij 👋
 
-<img alt="GIF" width="100%" height="30%" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" />
+<img alt="GIF" width="854" height="285" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" />
 
 ## I'm an IT engineering student passionate about Data Science :woman_technologist: 
 
@@ -25,12 +25,13 @@
 
 
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
  <img align="left" alt="ArijZouaoui's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ArijZouaoui&show_icons=true&hide_border=true&theme=tokyonight&hide=prs,issues,contribs" />
 
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArijZouaoui&layout=compact&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f)](https://github.com/ArijZouaoui?tab=repositories)
+
 
 
 [linkedin]: https://www.linkedin.com/in/arij-zouaoui/
