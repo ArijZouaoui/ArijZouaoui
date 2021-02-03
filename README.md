@@ -1,7 +1,7 @@
 ### Hi there, I'm Arij 👋
 
 
-## I'm an IT engineering student passionate about Data Scince
+## I'm an IT engineering student passionate about Data Science
 
 - 🌱 I’m currently learning new things :nerd_face:
 - 🥅 I'm looking to contribute more to Open Source projects :thought_balloon:
@@ -23,7 +23,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ArijZouaoui's GitHub Stats" src="https://github-readme-stats.ArijZouaoui.vercel.app/api?username=ArijZouaoui&show_icons=true&hide_border=true" />
+ <img align="left" alt="ArijZouaoui's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ArijZouaoui&show_icons=true&hide_border=true" />
 
 </details>
 
