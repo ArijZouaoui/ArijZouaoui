@@ -30,7 +30,7 @@
 
  <img align="left" alt="ArijZouaoui's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ArijZouaoui&show_icons=true&hide_border=true&theme=tokyonight&hide=prs,issues,contribs" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArijZouaoui&layout=compact&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f)](https://github.com/ArijZouaoui?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArijZouaoui&layout=compact&show_icons=true&title_color=fe6287&icon_color=fe6287&theme=tokyonigh&text_color=ffffff&bg_color=0a192f)](https://github.com/ArijZouaoui?tab=repositories)
 
 
 
