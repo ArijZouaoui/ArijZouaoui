@@ -1,6 +1,6 @@
 ### Hi there, I'm Arij 👋
 
-<img alt="GIF" align="right" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" />
+<img alt="GIF" width="100%" height="30%" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" />
 
 ## I'm an IT engineering student passionate about Data Science :woman_technologist: 
 
