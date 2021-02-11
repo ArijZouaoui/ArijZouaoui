@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning new things :nerd_face:
 - 🥅 I'm looking to contribute more to Open Source projects :thought_balloon:
 - 💬 Ask me about anything, I would love to help and share my ideas 
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1hFs7w-wPgleCnZtSvr19jgeEAfBAo50c/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1w7hDWxGyKloOvz9R24kb5y-_lgPiNjuf/view?usp=sharing) to get more info.
 - ⚡ Fact about me : I adore lifting weights and eating clean! :weight_lifting_woman: 
 
 
